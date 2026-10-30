@@ -165,42 +165,6 @@ All files are located in the repository root directory.
                                                 distributions and relationships
   ---------------------------------------------------------------------------------
 
-## Reproducibility
-
-The R scripts are provided to make the data-generation and analysis
-procedures transparent and reusable. Run the relevant `.R` script in an
-R environment with the packages required by that script installed.
-
-The synthetic dataset and analysis outputs are shared to support
-reproducibility and further methodological investigation.
-
-## Limitations
-
-This dataset was generated from literature-based reference values and
-statistical assumptions. It does not capture the full variability of
-real field conditions, environments, management practices, or laboratory
-measurements.
-
-In particular:
-
--   The observations are synthetic and must not be presented as real
-    experimental measurements.
--   The assumed sample size (`n = 182`) was used to estimate standard
-    deviations from SEM values; it was not established as the sample
-    size of the reference study.
--   The reported classification metrics were calculated using a single
-    stratified training-test split of the synthetic dataset.
--   Independent validation using additional real laboratory and field
-    data is required before applying the dataset or trained models to
-    real-world prediction tasks.
-
-## Reference
-
-Bal, M. A., Ozturk, D., Aydin, R., Erol, A., Ozkan, C. O., Ata, M., ...
-Karabay, P. (2006). Nutritive Value of Sainfoin (*Onobrychis
-viciaefolia*) Harvested at Different Maturity Stages. *Pakistan Journal
-of Biological Sciences*, 9(2), 205--209.
-https://doi.org/10.3923/pjbs.2006.205.209
 
 ## Repository
 
