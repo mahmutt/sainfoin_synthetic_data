@@ -185,4 +185,6 @@ doi:[10.3923/pjbs.2006.205.209](https://doi.org/10.3923/pjbs.2006.205.209)
 
 ## Archived version
 
-Archived on Zenodo: DOI `[to be added]`
+Archived on Zenodo: [https://doi.org/10.5281/zenodo.24482346](https://doi.org/10.5281/zenodo.24482346)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24482346.svg)](https://doi.org/10.5281/zenodo.24482346)
