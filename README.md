@@ -241,5 +241,6 @@ doi:[10.3923/pjbs.2006.205.209](https://doi.org/10.3923/pjbs.2006.205.209)
 
 ## Archived versions
 
-- Code and laboratory data: <https://doi.org/10.5281/zenodo.24482346>
+- Code and laboratory data: <https://doi.org/10.5281/zenodo.24541381> (version 1.1.0,
+  used in the article); all versions: <https://doi.org/10.5281/zenodo.24482345>
 - UAV image dataset: <https://doi.org/10.5281/zenodo.24484581>
